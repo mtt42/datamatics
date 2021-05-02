@@ -1,0 +1,2 @@
+# queries
+Query collection
